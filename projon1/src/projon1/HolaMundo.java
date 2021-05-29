@@ -2,9 +2,9 @@ package projon1;
 
 public class HolaMundo {
 	
-	int suma(int a, int b ) {
+	int dividir(int a, int b ) {
 		
-		return a-b;
+		return a/b;
 	}
 
 	public static void main(String[] args) {
